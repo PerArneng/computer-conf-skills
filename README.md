@@ -29,6 +29,7 @@ Claude will use the available skills to guide the installation and configuration
 
 | Skill | Description |
 |-------|-------------|
+| `configure-claude-code` | Apply personalized Claude Code settings |
 | `manage-zellij-installation` | Install and configure Zellij terminal multiplexer |
 
 ## Creating New Skills

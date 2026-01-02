@@ -10,8 +10,9 @@ This repository contains Claude Code skills for installing software and configur
 
 ```
 .claude/skills/
-├── conf-skill-creator/SKILL.md  # Meta-skill for creating new skills
-└── <skill-name>/SKILL.md        # Individual installation/config skills
+├── conf-skill-creator/SKILL.md       # Meta-skill for creating new skills
+├── configure-claude-code/SKILL.md    # Claude Code settings configuration
+└── manage-zellij-installation/SKILL.md  # Zellij terminal multiplexer
 ```
 
 ## Creating New Skills
